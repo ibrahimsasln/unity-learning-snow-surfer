@@ -1,9 +1,22 @@
 # Snow Surfer Game
 
-This is the second game project from the GameDev.tv team’s Udemy course.
+This is the second 2D game project from the GameDev.tv team’s Udemy course.
 
 I followed the tutorial videos and did the small challenge parts in each lesson.  
 When I got stuck, I looked things up and tried my own solutions, so I could practice and understand the topics better.
+
+## How to Play
+- **Accelerate:** `W` or `Up Arrow`
+- **Balance / Rotate:** `A/D` or `Left/Right Arrow`
+
+### Powerups
+- **Boost powerup:** makes you go faster (accelerating feels stronger while it’s active).
+- **Torque powerup:** increases rotation speed, so it’s easier to control the character and do flips.
+
+### Scoring & Goal
+- **Flips:** each flip gives **+100 points**.
+- **Crash:** if your character’s **head hits the ground**, the game restarts.
+- **Goal:** reach the **finish flag** with the **highest score** you can.
 
 ## Topics I practiced and learned
 - Sprite Shapes
